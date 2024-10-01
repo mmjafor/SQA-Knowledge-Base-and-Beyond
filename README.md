@@ -1,5 +1,5 @@
 # SQA-Knowledge-Base-and-Beyond
-This repository is dedicated to documenting and sharing knowledge about **Software Quality Assurance (SQA)**. Whether you’re a beginner looking to understand the basics of SQA or an experienced professional aiming to enhance your testing skills, this repository will provide you with valuable insights, resources, and best practices.
+Welcome to the **SQA-Knowledge-Base-and-Beyond!** This repository is dedicated to documenting and sharing knowledge about **Software Quality Assurance (SQA)**. Whether you’re a beginner looking to understand the basics of SQA or an experienced professional aiming to enhance your testing skills, this repository will provide you with valuable insights, resources, and best practices.
 
 # What You’ll Find in This Repository:
   1. **SQA Fundamentals:** A detailed explanation of the key concepts and methodologies in software testing.
@@ -22,4 +22,4 @@ This repository is dedicated to documenting and sharing knowledge about **Softwa
   3. Use this as a reference while preparing for interviews, certifications, or improving your skills.
 
 # Contributing:
-  1. Contributions are welcome! If you’d like to share your knowledge or improve existing content, feel free to open a pull request.
+  Contributions are welcome! If you’d like to share your knowledge or improve existing content, feel free to open a pull request.
